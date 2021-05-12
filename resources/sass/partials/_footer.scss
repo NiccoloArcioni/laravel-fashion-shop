@@ -1,0 +1,18 @@
+footer {
+    width: 100vw;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 30px;
+    p {
+        font-size: 20px;
+        font-style: italic;
+    }
+    .contact {
+        width: 160px;
+        p {
+            font-size: 14px;
+        }
+    }
+}

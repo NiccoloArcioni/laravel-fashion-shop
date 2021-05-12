@@ -1,0 +1,10 @@
+.banner {
+  width: 100vw;
+  height: calc(100vh - 240px);
+  text-align: center;
+}
+
+.banner img {
+  height: 100%;
+}
+
